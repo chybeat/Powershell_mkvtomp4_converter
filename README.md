@@ -41,8 +41,10 @@ C. Right click on "mkvtomp4.ps1" file a selecr "Run with powershell"
 D. When ask, write the source folder of the .mkv file(s) or the complete path of the mkv file to convert
    If you write a path (whithout specify any file) all the files in te folder will be converted recusively
    
-   ```Cuando se le pregunte escriba la carpeta de origen de los archivos .MKV o la ruta completa del archivo para conversión
-   Si se coloca la carpeta (sin el archivo) se convierten todos los archivos de la carptea y subcarpetas```
+```
+    Cuando se le pregunte escriba la carpeta de origen de los archivos .MKV o la ruta completa del archivo para conversión
+    Si se coloca la carpeta (sin el archivo) se convierten todos los archivos de la carptea y subcarpetas
+```
 
 It's possible to make conversion using powershell command line:
 ```Es posible realizar la conversión desde linea de comandos de la siguiente forma```
